@@ -1,0 +1,22 @@
+{
+  "name": "tugas-3",
+  "version": "1.0.0",
+  "description": "learning task code implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello World\"",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascrip",
+    "code",
+    "implementation"
+  ],
+  "author": "thufailnaufal99",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "pg": "^8.7.3"
+  }
+}
